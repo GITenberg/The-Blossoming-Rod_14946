@@ -1,0 +1,28 @@
+_repo: The-Blossoming-Rod_14946
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14946-h/images/cover_f.jpg
+creator:
+  author:
+    agent_name: Cutting, Mary Stewart
+    alias: Cutting, Mary Stewart Doubleday
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '1684'
+    url: http://www.gutenberg.org/2009/agents/1684
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: The Blossoming Rod
+url: http://www.gutenberg.org/ebooks/14946
